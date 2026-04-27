@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-04-27T02:49:00.862Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-04-27T05:09:32.529Z",
     "templateType": "full_banner_wipe",
     "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
     "homepageId": "6deb035b-1e48-441c-9f69-47f20315ba3f"
@@ -79,15 +79,43 @@
         "description": "객실 앞 개별 테라스에서 개별바베큐를 즐겨보세요.",
         "usageGuide": "[개별바베큐]\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인 20,000원, 1인 추가 시 5,000원 추가(1박기준/현장결제)",
         "displayOrder": 130,
-        "images": []
-      },
-      {
-        "id": "8d8be5f9-f9a5-4d35-af00-47189c445bb2",
-        "name": "마트픽업",
-        "description": "가평 시내에 위치한 \"조은마트\"에서 장 보신분은 펜션까지 마트에서 픽업해드립니다. ",
-        "usageGuide": "[픽업안내]\n- 마트픽업(조은마트)\n- 1인당 15,000원 장보면 펜션까지 마트에서 픽업\n- 가평역or가평터미널에서 택시이용 조은마트에서 택시비할인(3,800)",
-        "displayOrder": 131,
-        "images": []
+        "images": [
+          {
+            "id": "76606b4c-2a7b-4124-bd4c-4bbbe25b5169",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-m9o99ezhkl.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "39ab9618-c998-4e76-80d0-01dc6d6be6b4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-a9x2kimk5ci.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "746c5781-449a-4acf-bfa1-037da10f1c17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442789-qeeaos240jl.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4a055810-8689-47bf-8ca0-5c678394feca",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-nqnbyo6wtw9.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0f7e4133-944a-4cb4-a4dc-f98fa29cd32e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442789-a0digjqfdg5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "48c141ac-d1fc-431d-a31a-225a0804ba2d",
@@ -95,15 +123,78 @@
         "description": "펜션내에 카페가 마련되어 있어 분위기 있는 티타임을 즐기실 수 있습니다.\n",
         "usageGuide": "[펜션 내 카페]\n- 운영시간 : 10:00~18:30",
         "displayOrder": 132,
-        "images": []
-      },
-      {
-        "id": "31b6a88f-a0f1-4b86-924c-1509a9600db0",
-        "name": "서비스",
-        "description": "휴910 펜션에서 제공하는 다양한 서비스",
-        "usageGuide": "[할인제공]\n- 제이드가든 20%, 그린수상레져 50% 할인제공\n\n[편의시설]\n- 무료 WiFi",
-        "displayOrder": 133,
-        "images": []
+        "images": [
+          {
+            "id": "5676a09e-d0dd-4e8e-a96f-633732045017",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-hbqdziyipna.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ee7b25c0-8659-49ee-8920-5dfc406cbb4b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-1nzm3p92gzs.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f192e2eb-4a28-4203-b96c-786cd42b9e07",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-smtub855uep.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1067eba6-ae17-4c01-aac0-91f27e0f31de",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-n2l0qgfb3e.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1885f3aa-ae06-46e7-80a6-be46690a2ded",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-isn3cw56jw.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9ca1c6f4-9c17-4500-8455-2d397954471c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-bv63no03oeq.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5f8d5340-ed32-4ab5-959e-f8b4b46e0a73",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-hl5rpw6x3a9.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "504a32b9-c60b-4124-a258-67da88bd4e83",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-v7dsbgfycrb.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e8f249fb-5cf1-43d7-9761-70076e92962e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602298-ds4ve3jrc4s.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d0a79a1f-d92c-4818-947e-c7221d820b90",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-k3ydmcddv8j.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -155,8 +246,80 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "7a569f06-8b33-4602-a97a-ab9941a17851",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/thumbnail/1777258323381-h3fnzmdcq9t.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "364244fb-58bd-4b88-be9a-bef369dcc18a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-kt49b3kiqik.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4a51dc08-67d3-41d3-83aa-ac566b688b9e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-tueukujq9v.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "82e7cba2-9221-4da5-a42e-fd743eddd899",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-9e6hkr11kjn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fc5fe666-b7b7-4215-9c0d-9843ae231f6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-8ci16pksep4.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2d6f9d7c-ae94-4b71-b878-e7ff25cdd425",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-gftxbuk4ysw.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e1534839-8b56-472e-9c78-5693764bcce6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-ecpqsyoy355.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "727b09a1-984b-4107-985e-51cbcb87553b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-gc0atna78s7.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1df9286f-7a7c-44dc-9117-51db1fe04eaf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-xuky8my4niq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6cd83870-2cef-4e96-9302-cf0d2326d9a1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-jp5j5cveuvj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -719,28 +882,169 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [],
+                "title": "가평 휴 910 펜션",
+                "images": [
+                  {
+                    "id": "ec648e9d-b989-4762-aa5e-82c11f365032",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-7r8n1hoo8d9.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "265bb46a-ce79-4ea6-ab57-70a34aa293e5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-vlq2cv0kw5a.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4ddf902d-2c49-42b0-b330-12e7321fdcb1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-hcqxcho5s3.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "c589dc61-baa5-439a-84ef-d089c8f38c51",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-2kqg9dl3a4l.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "508e0bc2-0de7-456a-8662-79ecec705587",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-ypxq6yak16o.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5a180189-9b6d-4585-af7e-3cbdacad8ea7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-t9w75cf604e.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f587f3c8-94c2-45ec-9f35-194565f4c06f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-jtaide6nh5.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "34c76c50-54a5-4367-9409-f46946b9bb7b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-svu0v9u7iyr.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "fa2e6518-9455-44f3-b304-72104d171f38",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-n2btw6wtgm.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5542a502-7c83-42aa-861a-8b3fc233de15",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-769o6t9qhzy.jpg",
+                    "sortOrder": 9,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
                 "videos": [],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "closing": {
-                "title": "",
-                "images": [],
+                "title": " ",
+                "images": [
+                  {
+                    "id": "41be6566-2594-4c72-8ccb-226cce24ab76",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_closing/1777259323805-x993c1opkok.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
                 "videos": [],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [],
+                "title": " ",
+                "images": [
+                  {
+                    "id": "d057780e-9dbd-4dcb-8526-429fca689880",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260503207-n28ogw794ig.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "65f59b5c-4585-41f3-aab7-bee2f569ddc7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260503208-r5tff7tm9x.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1e8e2b9c-6615-440a-a111-4f3d6f8da362",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260663742-b6f11m0f30c.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
                 "videos": [],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "조용한 자연 속에서 온전히 쉬어가는 가평 휴910 펜션,\n탁 트인 풍경과 함께 여유로운 시간을 보낼 수 있어요.\n번잡함을 벗어나 한적한 하루를 누리기에 딱 좋은 공간,\n마음까지 편안해지는 진짜 휴식을 경험해보세요."
               },
               "gallery": {
-                "title": "",
-                "images": [],
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "c0bd48b5-1cd7-4485-a46c-e9d7fb450932",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-z4mfljyu6tc.jpg",
+                    "sortOrder": 0,
+                    "description": "개별바베큐",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "08c07250-ad1c-409b-bf42-164a75e2d0cc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-qga3jt66ad8.jpg",
+                    "sortOrder": 1,
+                    "description": "외경",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "eeb7678a-05f4-4eb1-9792-a14f05a541aa",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-yk9qq1dxa4s.jpg",
+                    "sortOrder": 2,
+                    "description": "카페",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a9e13ead-a751-4e67-a423-3d6fa78c7824",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-gwyx6r2yxhv.jpg",
+                    "sortOrder": 3,
+                    "description": "전경",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "650b1995-1af5-4894-a5ed-6f59a640d30d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-lo1f0klz6da.jpg",
+                    "sortOrder": 4,
+                    "description": "객실",
+                    "isSelected": true
+                  }
+                ],
                 "videos": [],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "가평 휴910 펜션의 매력을 미리 만나보세요!"
               },
               "signature": {
                 "title": "",
@@ -755,8 +1059,16 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "debad791-46be-42a5-94c0-4e9da47fe42b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/directions_hero/1777259323805-kbk9r09geg.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -769,10 +1081,50 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "46d56242-fcfe-4cdd-92bd-bc7c895bfe55",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/main_hero/1777260259255-00vxenyaxyd9k.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "조용한 자연 속에서 온전히 쉬어가는 가평 휴910 펜션,\n탁 트인 풍경과 함께 여유로운 시간을 보낼 수 있어요.\n번잡함을 벗어나 한적한 하루를 누리기에 딱 좋은 공간,\n마음까지 편안해지는 진짜 휴식을 경험해보세요."
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "b82c2c89-b7d3-482f-b4df-284da0187f31",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/main_about/1777260941872-zaws23adwy.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "5b68cd39-95bf-4ed9-a6ca-3e6473df4adc"
+                    }
+                  ],
+                  "blockId": "5b68cd39-95bf-4ed9-a6ca-3e6473df4adc",
+                  "description": "가평의 풍경을 곁에 두고 조용히 쉬어가는 시간,\n번잡함 없이 나만의 속도로 머물 수 있는 여유,\n그저 머무는 것만으로도 충분해지는 공간입니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "0a682c0a-0e34-41bf-a2fa-d42214e3d81e",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/main_about/1777261097169-ug2fvilofz.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1e0e90f9-45d3-43a5-92e1-7781a4ef97db"
+                    }
+                  ],
+                  "blockId": "1e0e90f9-45d3-43a5-92e1-7781a4ef97db",
+                  "description": ""
+                }
+              ]
             }
           ]
         },
@@ -782,13 +1134,21 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "e7801a1e-cc18-4c2a-9c9b-ee96fbe992c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/reservation_hero/1777260259255-nguoqdm12dq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -818,11 +1178,95 @@
             "family": "amandine"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#f7f9fb",
+          "secondary": "#85bfc1"
+        }
       },
       "property": {
         "name": "가평 휴910",
-        "images": [],
+        "images": [
+          {
+            "id": "7ec100ad-8337-43e5-bda7-cc0950b8ec6f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_thumbnail/1777259323805-j5sf0dv4ptb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "f2004aaa-df4e-427c-9b5a-3add63cad7e2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-7k9t6a90uzd.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d65bbfc8-47db-452e-bf40-98aeec65cfd8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-aofsdoxhltj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "196b6919-10d8-4cb4-ace2-e327a068c300",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-x0qf4epmdk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "a17cac13-bb7f-4d17-b6d1-c9de419f10cb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-tf71qsbx0fo.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d0127d48-72d8-4bc9-8a4b-d662a4cecef8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-98o3d8frf0g.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "b41c9aeb-1b9b-4e43-b9e7-1afabf452e7f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-37yjt1e9yg.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "e3dd8c73-4230-4ab1-be60-dac38bc9a195",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-grjl1jdwb9.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "912d4fa7-fe2d-4e51-be82-9b71205dfe31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323806-fn09kpvqlk.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "81791872-3f61-4834-9ff7-9077ae47774b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/property_exterior/1777259323805-brqg3p03r86.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Gapyeong Hue 910 Pension"
       },
       "roomtypes": [
