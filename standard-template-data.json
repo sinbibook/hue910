@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-27T05:38:14.179Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-05-06T07:11:31.746190691Z",
     "templateType": "full_banner_wipe",
     "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
     "homepageId": "6deb035b-1e48-441c-9f69-47f20315ba3f"
@@ -26,7 +26,7 @@
     "city": "가평군",
     "domain": "hue910.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11646",
-    "ybsId": "",
+    "ybsId": "80099",
     "amenities": [
       "WiFi",
       "주차장",
@@ -37,7 +37,7 @@
       "공원",
       "수상스포츠"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "힐링",
       "가족",
@@ -55,7 +55,8 @@
       "businessEmail": "123@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -81,39 +82,44 @@
         "displayOrder": 130,
         "images": [
           {
-            "id": "76606b4c-2a7b-4124-bd4c-4bbbe25b5169",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-m9o99ezhkl.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "39ab9618-c998-4e76-80d0-01dc6d6be6b4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-a9x2kimk5ci.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "746c5781-449a-4acf-bfa1-037da10f1c17",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442789-qeeaos240jl.jpg",
-            "sortOrder": 4,
+            "id": "76606b4c-2a7b-4124-bd4c-4bbbe25b5169",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-m9o99ezhkl.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "4a055810-8689-47bf-8ca0-5c678394feca",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442788-nqnbyo6wtw9.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "0f7e4133-944a-4cb4-a4dc-f98fa29cd32e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442789-a0digjqfdg5.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "746c5781-449a-4acf-bfa1-037da10f1c17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3478686a-77a7-4441-9f9b-a85089daacc1/main/1777258442789-qeeaos240jl.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -125,74 +131,84 @@
         "displayOrder": 132,
         "images": [
           {
+            "id": "e8f249fb-5cf1-43d7-9761-70076e92962e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602298-ds4ve3jrc4s.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "5676a09e-d0dd-4e8e-a96f-633732045017",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-hbqdziyipna.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ee7b25c0-8659-49ee-8920-5dfc406cbb4b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-1nzm3p92gzs.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "f192e2eb-4a28-4203-b96c-786cd42b9e07",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-smtub855uep.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1067eba6-ae17-4c01-aac0-91f27e0f31de",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-n2l0qgfb3e.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1885f3aa-ae06-46e7-80a6-be46690a2ded",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-isn3cw56jw.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9ca1c6f4-9c17-4500-8455-2d397954471c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-bv63no03oeq.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "5f8d5340-ed32-4ab5-959e-f8b4b46e0a73",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-hl5rpw6x3a9.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "504a32b9-c60b-4124-a258-67da88bd4e83",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-v7dsbgfycrb.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e8f249fb-5cf1-43d7-9761-70076e92962e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602298-ds4ve3jrc4s.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "d0a79a1f-d92c-4818-947e-c7221d820b90",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-k3ydmcddv8j.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "504a32b9-c60b-4124-a258-67da88bd4e83",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-v7dsbgfycrb.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f192e2eb-4a28-4203-b96c-786cd42b9e07",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-smtub855uep.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9ca1c6f4-9c17-4500-8455-2d397954471c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-bv63no03oeq.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1067eba6-ae17-4c01-aac0-91f27e0f31de",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-n2l0qgfb3e.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1885f3aa-ae06-46e7-80a6-be46690a2ded",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/48c141ac-d1fc-431d-a31a-225a0804ba2d/main/1777258602299-isn3cw56jw.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -252,92 +268,98 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/thumbnail/1777258323381-h3fnzmdcq9t.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
           {
-            "id": "364244fb-58bd-4b88-be9a-bef369dcc18a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-kt49b3kiqik.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4a51dc08-67d3-41d3-83aa-ac566b688b9e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-tueukujq9v.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "82e7cba2-9221-4da5-a42e-fd743eddd899",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-9e6hkr11kjn.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "fc5fe666-b7b7-4215-9c0d-9843ae231f6c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-8ci16pksep4.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2d6f9d7c-ae94-4b71-b878-e7ff25cdd425",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-gftxbuk4ysw.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e1534839-8b56-472e-9c78-5693764bcce6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-ecpqsyoy355.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "727b09a1-984b-4107-985e-51cbcb87553b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-gc0atna78s7.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "1df9286f-7a7c-44dc-9117-51db1fe04eaf",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-xuky8my4niq.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "6cd83870-2cef-4e96-9302-cf0d2326d9a1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-jp5j5cveuvj.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "82e7cba2-9221-4da5-a42e-fd743eddd899",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-9e6hkr11kjn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4a51dc08-67d3-41d3-83aa-ac566b688b9e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-tueukujq9v.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fc5fe666-b7b7-4215-9c0d-9843ae231f6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-8ci16pksep4.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e1534839-8b56-472e-9c78-5693764bcce6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-ecpqsyoy355.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2d6f9d7c-ae94-4b71-b878-e7ff25cdd425",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323384-gftxbuk4ysw.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "364244fb-58bd-4b88-be9a-bef369dcc18a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-kt49b3kiqik.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "727b09a1-984b-4107-985e-51cbcb87553b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d/exterior/1777258323385-gc0atna78s7.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ]
   },
   "rooms": [
     {
       "id": "94755fc1-a932-4593-ac27-cac360eaf5c9",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "204호(2층)",
-      "nameEn": "204 (2F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -346,17 +368,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -373,37 +384,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-03T06:32:39.216Z",
-      "updatedAt": "2026-04-16T03:09:42.210Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 1
     },
     {
       "id": "913a3107-a0bf-41a6-9ab1-1661fd0be752",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "203호(2층)",
-      "nameEn": "203 (2F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -412,17 +425,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -439,37 +441,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-03T06:32:39.225Z",
-      "updatedAt": "2026-04-16T03:09:52.405Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 2
     },
     {
       "id": "c53c461d-bb4b-4c8e-a42a-56784a963605",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "202호(2층)",
-      "nameEn": "202 (2F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -478,17 +482,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -505,37 +498,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-03T06:32:39.345Z",
-      "updatedAt": "2026-04-16T03:10:03.797Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 3
     },
     {
       "id": "9e34e7cd-5c16-4c89-a15f-322612939ce2",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "201호(2층)",
-      "nameEn": "201 (2F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -544,17 +539,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -571,37 +555,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-03T06:32:39.310Z",
-      "updatedAt": "2026-04-16T03:10:14.456Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 4
     },
     {
       "id": "d1273725-ea39-4d23-b574-67296a1d585b",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "103호(1층)",
-      "nameEn": "103 (1F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -610,17 +596,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -637,37 +612,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-03T06:32:39.317Z",
-      "updatedAt": "2026-04-16T03:10:25.500Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 5
     },
     {
       "id": "902c99c9-e94f-4135-9de1-0efc5b86d421",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "101호(1층)",
-      "nameEn": "101 (1F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 46.28,
-      "sizePyeong": 14,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -676,17 +653,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -703,37 +669,39 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-03T06:32:39.393Z",
-      "updatedAt": "2026-04-16T03:17:56.367Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 6
     },
     {
       "id": "cb17719f-0966-4ea2-8546-845a3006f8b2",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "102호(쓰리룸,1층)",
-      "nameEn": "102 (3 Room, 1F)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+침대룸(싱글침대1)+침대룸(더블침대1)+주방1+화장실1\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+침대룸(싱글침대1)+침대룸(더블침대1)+주방1+화장실1\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 2,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -743,17 +711,6 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드",
         "더블 베드",
@@ -771,38 +728,40 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층",
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-03T06:32:39.409Z",
-      "updatedAt": "2026-04-16T03:18:05.667Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 7
     },
     {
       "id": "2eeaedd9-266b-4963-ae40-92fc51288088",
-      "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
-      "propertyName": "가평 휴910",
       "name": "101+102+103호(단체)",
-      "nameEn": "101+102+103 (Group)",
       "description": "독채형+복층형, 거실3+침대룸(더블침대1)+침대룸(싱글침대1)+침대룸(2층침대1)+침대룸(퀸침대1)+침대룸(퀸침대1)+주방3+화장실3\n",
       "roomInfo": "독채형+복층형, 거실3+침대룸(더블침대1)+침대룸(싱글침대1)+침대룸(2층침대1)+침대룸(퀸침대1)+침대룸(퀸침대1)+주방3+화장실3\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 영유아 포함 1인 20,000원 (1박기준/현장결제)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 185.12,
-      "sizePyeong": 56,
       "baseOccupancy": 6,
       "maxOccupancy": 16,
       "totalRoomCount": {
@@ -812,17 +771,6 @@
         "ondol": 0,
         "kitchen": 3
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드",
         "더블 베드",
@@ -840,25 +788,31 @@
         "조리도구",
         "식기류"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층",
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "5de5679d-d993-4d46-9a2b-d695ada02c64",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-03T06:32:39.346Z",
-      "updatedAt": "2026-04-16T03:11:09.343Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 8
     }
   ],
   "homepage": {
@@ -867,7 +821,7 @@
     "templateType": "full_banner_wipe",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -875,7 +829,12 @@
       "description": "",
       "keywords": "가평펜션,가평숙소"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -889,73 +848,83 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-7r8n1hoo8d9.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "265bb46a-ce79-4ea6-ab57-70a34aa293e5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-vlq2cv0kw5a.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4ddf902d-2c49-42b0-b330-12e7321fdcb1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-hcqxcho5s3.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c589dc61-baa5-439a-84ef-d089c8f38c51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-2kqg9dl3a4l.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "508e0bc2-0de7-456a-8662-79ecec705587",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-ypxq6yak16o.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5a180189-9b6d-4585-af7e-3cbdacad8ea7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-t9w75cf604e.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f587f3c8-94c2-45ec-9f35-194565f4c06f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-jtaide6nh5.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "34c76c50-54a5-4367-9409-f46946b9bb7b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-svu0v9u7iyr.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "fa2e6518-9455-44f3-b304-72104d171f38",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-n2btw6wtgm.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5542a502-7c83-42aa-861a-8b3fc233de15",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_hero/1777259323805-769o6t9qhzy.jpg",
                     "sortOrder": 9,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -967,10 +936,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_closing/1777259323805-x993c1opkok.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -982,24 +952,27 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260503207-n28ogw794ig.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "65f59b5c-4585-41f3-aab7-bee2f569ddc7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260503208-r5tff7tm9x.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1e8e2b9c-6615-440a-a111-4f3d6f8da362",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_essence/1777260663742-b6f11m0f30c.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "조용한 자연 속에서 온전히 쉬어가는 가평 휴910 펜션,\n탁 트인 풍경과 함께 여유로운 시간을 보낼 수 있어요.\n번잡함을 벗어나 한적한 하루를 누리기에 딱 좋은 공간,\n마음까지 편안해지는 진짜 휴식을 경험해보세요."
               },
@@ -1011,45 +984,50 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-z4mfljyu6tc.jpg",
                     "sortOrder": 0,
                     "description": "개별바베큐",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "08c07250-ad1c-409b-bf42-164a75e2d0cc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-qga3jt66ad8.jpg",
                     "sortOrder": 1,
                     "description": "외경",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "eeb7678a-05f4-4eb1-9792-a14f05a541aa",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-yk9qq1dxa4s.jpg",
                     "sortOrder": 2,
                     "description": "카페",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "a9e13ead-a751-4e67-a423-3d6fa78c7824",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-gwyx6r2yxhv.jpg",
                     "sortOrder": 3,
                     "description": "전경",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "650b1995-1af5-4894-a5ed-6f59a640d30d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/index_gallery/1777259323805-lo1f0klz6da.jpg",
                     "sortOrder": 4,
                     "description": "객실",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "가평 휴910 펜션의 매력을 미리 만나보세요!"
               },
               "signature": {
                 "title": "",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image"
               }
             }
@@ -1066,7 +1044,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/directions_hero/1777259323805-kbk9r09geg.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1088,7 +1067,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/main_hero/1777260259255-00vxenyaxyd9k.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "조용한 자연 속에서 온전히 쉬어가는 가평 휴910 펜션,\n탁 트인 풍경과 함께 여유로운 시간을 보낼 수 있어요.\n번잡함을 벗어나 한적한 하루를 누리기에 딱 좋은 공간,\n마음까지 편안해지는 진짜 휴식을 경험해보세요."
@@ -1128,8 +1108,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1141,13 +1121,14 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6deb035b-1e48-441c-9f69-47f20315ba3f/reservation_hero/1777260259255-nguoqdm12dq.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1155,7 +1136,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "theme": {
         "font": {
@@ -1192,6 +1173,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1200,6 +1182,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1208,6 +1191,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1216,6 +1200,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1224,6 +1209,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1232,6 +1218,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1240,6 +1227,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1248,6 +1236,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1256,6 +1245,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1264,6 +1254,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
