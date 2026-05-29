@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-05-28T05:49:31.318796014Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-05-29T00:57:21.276527118Z",
     "templateType": "full_banner_wipe",
     "propertyId": "4ddbd2d0-584c-4fc2-bf93-1d6d80aecf4d",
     "homepageId": "6deb035b-1e48-441c-9f69-47f20315ba3f"
@@ -25,7 +25,7 @@
     "province": "경기도",
     "city": "가평군",
     "domain": "hue910.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/957980505",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11646",
     "ybsId": "80099",
     "amenities": [
       "WiFi",
